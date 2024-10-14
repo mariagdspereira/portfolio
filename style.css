@@ -5,6 +5,13 @@ body {
     font-weight: 400;
     font-style: normal;
 }
+#imagem1 {
+	text-align: center;
+	padding: 100px;
+}
+#imagem1 img {
+	width: 800px;
+}
 
 #navbar {
 	display: flex;
