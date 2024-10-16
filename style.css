@@ -98,6 +98,9 @@ h1 {
     text-align: center;
     padding: 10px;
     background-color: #F5CAE0;
+	position:fixed;
+	bottom:0;
+	width:100%;
 }
 
 .footer-bottom p {
